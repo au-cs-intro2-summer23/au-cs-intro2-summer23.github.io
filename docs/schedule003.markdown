@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Schedule 003
-permalink: /schedule-003/
+title: Schedule
+permalink: /schedule/
 ---
 
 ![calendar](/img/eric-rothermel-FoKO4DpXamQ-unsplash-med.jpg)
 *Photo by <a href="https://unsplash.com/@erothermel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eric Rothermel</a> on <a href="https://unsplash.com/s/photos/calendar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 
 This schedule includes planned topics, exams, and semester breaks. For individual assignment deadlines, please refer to the Canvas site. The semester has two major blocks:
-1. Develop an advanced understanding of object-oriented design, inheritance, event-driven programming, and GUI design. *Weeks 1-10*
-1. Introduction to efficient algorithms, data structures, sorting, and advanced recursion. *Weeks 11-15*
+1. Develop an advanced understanding of object-oriented design, inheritance, event-driven programming, and GUI design. *Weeks 1-3*
+1. Introduction to efficient algorithms, data structures, sorting, and advanced recursion. *Weeks 3-6*
 
 ### Week 1 
-- Tue, Jan 17 Software Setup and Course Overview
+- Mon,  July 3 Software Setup and Course Overview
     - Reading: 
       - Review the [resources](/resources) section and ensure that you have attempted to install all required software and obtained all necessary accounts & licenses
-- Fri, Jan 20 Computer Science Basics Review
+- Wed, July 5 Computer Science Basics Review, Intro to Objects 
     - Reading:
       - ds Ch 1
 

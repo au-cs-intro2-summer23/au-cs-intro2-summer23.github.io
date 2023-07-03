@@ -122,7 +122,7 @@ that is new since the previous exam.
 - Attendance: 10%
 - Participation and Labs: 10%
 - HW Projects: 30%
-- Midterm Exams: 20%
+- Midterm Exam: 20%
 - Final Exam (cumulative: half old, half new): 30%
 
 ## Letter Grades

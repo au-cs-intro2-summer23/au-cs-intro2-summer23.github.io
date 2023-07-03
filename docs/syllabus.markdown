@@ -13,7 +13,7 @@ permalink: /syllabus/
 - **Office Hours**: Will be by appointment-- please email me if you'd like to set up a Zoom meeting to discuss topics/questions/concerns etc.
     - I am mostly free most Friday afternoons, most evenings, and weekends. 
 - **First Day of Class**: Wed., July 5
-  - Section 001: Meets 5:30-8:40 Don Myers Building Room 114
+  - Section 001: Meets 5:30-8:40pm Don Myers Building Room 114
 
 ## Coronavirus Policies
 

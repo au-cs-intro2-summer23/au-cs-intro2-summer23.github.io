@@ -12,122 +12,54 @@ This schedule includes planned topics, exams, and semester breaks. For individua
 1. Introduction to efficient algorithms, data structures, sorting, and advanced recursion. *Weeks 3-6*
 
 ### Week 1 
-- Mon,  July 3 Software Setup and Course Overview
+- Mon,  July 3 Software Setup and Course Overview *(NO CLASS IN OBSERVANCE OF JULY 4)*
     - Reading: 
       - Review the [resources](/resources) section and ensure that you have attempted to install all required software and obtained all necessary accounts & licenses
 - Wed, July 5 Computer Science Basics Review, Intro to Objects 
     - Reading:
       - ds Ch 1
+      - oop Ch 1
+      - oop Ch 2
 
 ### Week 2
-- Tue, Jan 24 Intro Objects I
-  - Reading: 
-    - oop Ch 1
-- Fri, Jan 27 Intro Objects II
-  - Reading: 
-    - oop Ch 2
-
-### Week 3
-- Tue, Jan 31 Mental Models
+- Mon, July 10 Mental Models, Multiple Objects
   - Reading: 
     - oop Ch 3
-- Fri, Feb 3 Multiple Objects
-  - Reading: 
     - oop Ch 4
+- Wed, July 12 Intro to Guis, Object Oriented PyGame, Pygame Widgets
+  - Reading:
+    - oop Ch 5
+    - oop Ch 6
+    - oop Ch 7
+
+### Week 3
+- Mon, July 17 Encapsulation, Polymorphism, Inheritance
+  - Reading: 
+    - oop Ch 8
+    - oop Ch 10
+    - oop Ch 11
+- Wed, July 19 *Midterm Review*
+
 
 ### Week 4
-- Tue, Feb 7 Intro to GUIs
-  - Reading:
-    - oop Ch 5
-- Fri, Feb 10 Intro to GUIs II
-  - Reading:
-    - oop Ch 5
-
-### Week 5
-- Tue, Feb 14 Object-Oriented Pygame
-  - Reading:
-    - oop Ch 6
-- Fri, Feb 17 GUI Widgets in Pygame
-  - Reading:
-    - oop Ch 7 
-
-### Week 6
-- Tue, Feb 21 **Exam I** 
-- Fri, Feb 24 Encapsulation I
-  - Reading:
-    - oop Ch 8
-
-### Week 7
-- Tue, Feb 28 Encapsulation II 
-  - Reading:
-    - oop Ch 8
-- Fri, Mar 3 Polymorphism I
-  - Reading:
-    - oop Ch 10
-
-### Week 8
-- Tue, Mar 7 Polymorphism II
-  - Reading:
-    - oop Ch 10
-- Fri, Mar 10 Inheritance I
-  - Reading:
-    - oop Ch 11
-
-### Week 9
-- Tue, Mar 14 ***Spring Break No Classes!!
-- Fri, Mar 17 ***Spring Break No Classes!!
-
-### Week 10
-- Tue, Mar 21 Inheritance II
-  - Reading:
-    - oop Ch 11
-- Fri, Mar 24 Memory Management
-  - Reading:
-    - oop Ch 12
-
-### Week 11
-- Tue, Mar 28 **Exam 2**
-- Fri, Mar 31 Algorithm Analysis
+- Mon, July 24 **Midterm Exam** 
+  
+- Wed, July 26 Algorithm Analysis, Basic Data Structures
   - Reading:
     - ds Ch 2
+    - ds Ch 3 skip 3.8, 3.9, and 3.13
 
-### Week 12
-- Tue, April 4 GitHub Branches and Basic Data Structures
+### Week 5
+- Mon, July 31 Recursion, Searching Algorithms
   - Reading:
-    - ds Ch 3, skip 3.8, 3.9, and 3.13
-    - Review [PyCharm's documentation on branches](https://www.jetbrains.com/help/pycharm/manage-branches.html)
-    - Review [PyCharm's documentation on applying changes from one Git branch to another](https://www.jetbrains.com/help/pycharm/apply-changes-from-one-branch-to-another.html). Note, there's some information on rebasing, which we did not discuss and I do not expect you to be familiar with. In class, we discussed letting GitHub do the work of merging branches for you. This documentation and the embedded video demonstrate doing this locally. Ultimately either is fine.
-- Fri, Apr 7 Finish Data Structures, Start Recursion I
-  - Reading:
-    - ds Ch 4.1-4.6
-
-### Week 13
-- Tue, Apr 11 Recursion II
-  - Reading:
-    - ds Ch 4.6-end of chapter
-- Fri, Apr 14 Searching
-  - Reading: 
+    - ds Ch 4
     - ds Ch 5.1-5.4 skip 5.5
-    
-### Week 14
-- Tue, Apr 18 Sorting
+- Wed, Aug 2 Sorting and Tree Algorithms 
   - Reading:
-    - ds Ch 5.6-end of chapter
-- Fri, Apr 21 Trees, Tree Algorithms
-  - Reading:
-    - ds Ch 6.1-6.10 
+    -  ds Ch 5.6-end of chapter
+    -  ds Ch 6
 
-### Week 15
-- Tue, Apr 25 Tree, Tree Algorithms II
-  - Reading: 
-    - ds 6.11-end of chapter
-- Fri, Apr 28 LAST DAY OF CLASS!!
-  - Reading: Graphs, Graph Algorithms I
-    - ds 7.1-7.6
-
+### Week 6
+- Mon, Aug 7 *Final Exam Review (or cover anything we didn't get to)* 
+- Wed, Aug 9 **Final Exam**
   
----
-
-### Week 16: Final Exams
-- Day: Tue, May 9, 2023	
-- Time: 02:30PM-05:00PM

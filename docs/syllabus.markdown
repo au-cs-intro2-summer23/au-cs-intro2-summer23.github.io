@@ -6,35 +6,14 @@ permalink: /syllabus/
 
 ![AU Core Banner](/img/core_banner.png)
 
-#### Sections 001 & 002 
-- **Instructor**: Professor Bei Xiao
-- **Email**: [bxiao@american.edu](bxiao@american.edu)
-- **Website**: [Xiao Lab](https://sites.google.com/site/beixiao/) 
-- **Office**: DMTI 204
-- **Office Hours**: Tuesday/Friday: 2pm-3:30pm via Zoom [https://american.zoom.us/j/99591994053?pwd=b3FIVyt3SHUxR1BFUnpmbitnQ2xLQT09](https://american.zoom.us/j/99591994053?pwd=b3FIVyt3SHUxR1BFUnpmbitnQ2xLQT09) and by appointment. 
-- **First Day of Class**: Tue., Jan. 17
-- Please email me if you plan to come
-  - Section 001: Meets 9:45 AM - 11:00 AM T/F in DMTI 213
-  - Section 002: Meets 11:20 AM - 12:35 PM T/F in DMTI 114
-
-#### Section 003 
+#### Section 001 
 - **Instructor**: Professor Ginger Schwarz
 - **Email**: [gs9913a@american.edu](gs9913a@american.edu)
-- **Office**: DMTI 212
-- **Office Hours**: Tuesday/Thursday 12-1:30pm via Zoom [https://american.zoom.us/j/94477667079?pwd=WE1CZ0ptRWhVWC9FcXc3MTg2U1BVdz09](https://american.zoom.us/j/94477667079?pwd=WE1CZ0ptRWhVWC9FcXc3MTg2U1BVdz09)
-- **First Day of Class**: Tue., Jan. 17
-  - Section 003: Meets 2:30 PM - 3:45 PM T/F in DMTI 121
-
-#### Teacher Assistants
-- **Section 1**: Tomer Ben-Ezer
-- **Email**: [tb1392a@american.edu](tb1392a@american.edu)
-- **Office Hours**: Monday/Thursday: 2:30pm-4pm.
-- **Section 2**: Philip Eigen
-- **Email**: [pe4003a@american.edu](pe4003a@american.edu)
-- **Office Hours**: Tuesday,Wed/Friday: 1pm-2pm.
-- **Section 3**: Nora Lewis
-- **Email**: [nl5586a@american.edu](nl5586a@american.edu)
-- **Office Hours**: Friday: 4-6pm
+- **Office**: DMTI 212 *(please email me if you'd like to meet in person)*
+- **Office Hours**: Will be by appointment-- please email me if you'd like to set up a Zoom meeting to discuss topics/questions/concerns etc.
+    - I am mostly free most Friday afternoons, most evenings, and weekends. 
+- **First Day of Class**: Wed., July 5
+  - Section 001: Meets 5:30-8:40 Don Myers Building Room 114
 
 ## Coronavirus Policies
 
@@ -90,7 +69,7 @@ Please do not use your cell phone in class.
 
 ### Software Tools
 
-In this course you will utilize an Integrated Development Environment (IDE) to write code. While many IDEs exist, examples and in-class support videos will utilize [PyCharm by Jetbrains](https://www.jetbrains.com/). It is freely available to students through an academic license and supports all the software development features that we will use in this course. 
+In this course, you will utilize an Integrated Development Environment (IDE) to write code. While many IDEs exist, examples and in-class support videos will utilize [PyCharm by Jetbrains](https://www.jetbrains.com/). It is freely available to students through an academic license and supports all the software development features that we will use in this course. 
 
 All [assignments](/assignments) will be delivered to students and submitted back to the instructor through [GitHub](https://github.com/). If you do not already have an account, you should sign up for one prior to the beginning of class. Early lectures will discuss the possible methods of submitting assignments to help you determine what is most comfortable for you, but the recommended method is to use the built-in GitHub integration available within IntelliJ IDEA. 
 
@@ -98,7 +77,7 @@ See the [resources](/resources) section for more information on the software too
 
 ### Audio/Camera Policy
 
-If meeting virtually, se strongly encourage you to turn on your camera during meetings and remote office hours. Faculty and students reported virtual classes are much better when we can see your faces because there is more visual communication, more engagement, sense of community and less multitasking. However, we understand that sometimes you can’t turn on your camera due to connectivity issues or privacy concerns. If you can’t connect with a camera, please upload a photo of yourself onto Zoom. If you have connectivity issues, please contact techtaskforce@american.edu.
+If meeting virtually, we strongly encourage you to turn on your camera during meetings and remote office hours. Faculty and students reported virtual classes are much better when we can see your faces because there is more visual communication, more engagement, a sense of community, and less multitasking. However, we understand that sometimes you can’t turn on your camera due to connectivity issues or privacy concerns. If you can’t connect with a camera, please upload a photo of yourself onto Zoom. If you have connectivity issues, please contact techtaskforce@american.edu.
 
 ## Homework
 
@@ -139,17 +118,11 @@ answer, and long answer questions. Each exam, except the final, is weighted equa
 The final exam is cumulative: half of the final exam will be material covered for prior exams, half will be material
 that is new since the previous exam.
 
-## Grading for Section 001 & 002
-- Attendance and Participation: 5%
-- Quiz: in-class and take-home: 5% 
+## Grading
+- Attendance: 10%
+- Participation and Labs: 10%
 - HW Projects: 30%
-- Midterm Exams (2x 15 ea.): 30%
-- Final Exam (cumulative: half old, half new): 30%
-
-## Grading for Section 003
-- Attendance and Participation: 10%
-- HW Projects: 30%
-- Midterm Exams (2x 15 ea.): 30%
+- Midterm Exams: 20%
 - Final Exam (cumulative: half old, half new): 30%
 
 ## Letter Grades
